@@ -223,7 +223,7 @@ Applied the rule and triggered a firewall reload.
 ## 📁 Repository Structure
 
 ```
-pfsense-dos-defense-lab/
+Network Perimeter Defense Lab: Real-Time DoS Attack Simulation & Firewall Mitigation/
 ├── README.md
 ├── screenshots/
 │   ├── pre_mitigation_dos_attack.png
