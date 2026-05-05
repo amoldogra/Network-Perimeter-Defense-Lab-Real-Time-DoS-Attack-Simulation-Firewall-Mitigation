@@ -181,7 +181,8 @@ Applied the rule and triggered a firewall reload.
 ### 4. Post-Mitigation — Block Rule Applied, Traffic Halted
 > *pfSense WebGUI showing the block rule at the top of the WAN ruleset. hping3 on Kali reports 100% packet loss. Ubuntu internet connectivity restored.*
 
-> *(Insert your post-mitigation screenshot here)*
+<img width="1167" height="763" alt="post_mitigation_blocked" src="https://github.com/user-attachments/assets/8256da12-c0be-4c4e-a97f-5401dc5d8925" />
+
 
 ---
 
